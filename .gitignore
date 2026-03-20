@@ -1,0 +1,25 @@
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+debug.log
+*.log
+
+# Virtual environments
+venv/
+env/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Docker
+.dockerignore
+
+# Environment variables
+.env
